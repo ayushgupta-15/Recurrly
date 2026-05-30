@@ -1,23 +1,6 @@
-<div align="center">
-  <br />
-  <img src="assets/readme/readme-hero.webp" alt="Recurrly — Subscription Manager" width="100%" />
-  <br />
+# Recurrly
 
-  <div>
-    <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /><br/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
-    <img src="https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PostHog-F0AD4E?style=for-the-badge&logo=posthog&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  </div>
-
-  <h2>Recurrly</h2>
-  <p>A production-ready mobile app for tracking subscriptions, managing recurring expenses, and never missing a billing date.</p>
-</div>
+> A production-ready mobile app for tracking subscriptions, managing recurring expenses, and never missing a billing date.
 
 ---
 
